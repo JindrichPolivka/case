@@ -12,9 +12,9 @@ The expression of my professional personality,
 
 Introduction to section…
 
--1 When talking about topics outside of design and work, the language is simple, using more conversational than formal language.
--2 Using short sentences that create text you can quickly navigate
--3 When discusing work, provide context, but avoid being overly descriptive or emotionally colored, let the reader make their own conclusions.
+- When talking about topics outside of design and work, the language is simple, using more conversational than formal language.
+- Using short sentences that create text you can quickly navigate
+- When discusing work, provide context, but avoid being overly descriptive or emotionally colored, let the reader make their own conclusions.
 
 ## Style
 
